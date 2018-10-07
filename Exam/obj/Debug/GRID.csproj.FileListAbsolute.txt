@@ -1,0 +1,7 @@
+c:\users\user\source\repos\exam\exam\bin\Debug\exam.exe.config
+c:\users\user\source\repos\exam\exam\bin\Debug\exam.exe
+c:\users\user\source\repos\exam\exam\bin\Debug\exam.pdb
+c:\users\user\source\repos\exam\exam\obj\Debug\GRID.csprojAssemblyReference.cache
+c:\users\user\source\repos\exam\exam\obj\Debug\GRID.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\exam\exam\obj\Debug\exam.exe
+c:\users\user\source\repos\exam\exam\obj\Debug\exam.pdb
